@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>lesson 24 JS Query params</title>
+  </head>
+  <body>
+    <div>
+      <h4>filter</h4>
+      <form id="filter">
+        <select name="position">
+          <option value="">Выберите вариант</option>
+          <option value="front-end">frond-end developer</option>
+          <option value="back-end">back-end developer</option>
+        </select>
+
+        <button type="submit">применить</button>
+        <button type="reset" id="btnClick">сбросить фильтр</button>
+      </form>
+    </div>
+
+    <ul id="users"></ul>
+
+    <script src="./main.js"></script>
+  </body>
+</html>

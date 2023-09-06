@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "username": "Bret",
+            "email": "Sincere@april.biz",
+            "position": "front-end"
+        },
+        {
+            "id": 2,
+            "name": "Ervin Howell",
+            "username": "Antonette",
+            "email": "Shanna@melissa.tv",
+            "position": "front-end"
+        },
+        {
+            "id": 3,
+            "name": "Clementine Bauch",
+            "username": "Samantha",
+            "email": "Nathan@yesenia.net",
+            "position": "back-end"
+        }
+    ]
+  }
